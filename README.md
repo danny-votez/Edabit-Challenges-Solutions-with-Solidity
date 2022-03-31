@@ -4,7 +4,7 @@
 - Of the different languages that **[Edabit](https://edabit.com)** offers on its platform are:
 
      > **C#, C++, Java, JavaScript, PHP, Python, Ruby, Swift**
-- This repository focuses on **[Solidity]()** and contains Solidity solutions of **Edabit** Challenges
+- This repository focuses on **[Solidity]()** and contains Solidity solutions to **some** of the **Edabit** Challenges
 - **[Solidity](https://soliditylang.org/)** is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum
 
 #### Preamble to Solidity
