@@ -21,5 +21,5 @@ According to **[soliditylang.org](), Solidity:**:
 > - Is statically typed, supports inheritance, libraries and complex user-defined types among other features.
 > - With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets
 #### Exra Resources on Solidity
-- Check the Solidity language's [Home](https://docs.soliditylang.org/en/v0.8.12/) Page
-- Check the Soldity language's [GitHub Repository](https://github.com/ethereum/solidity/blob/v0.8.12/docs/index.rst) Page
+- Check the Solidity language's **[Home](https://docs.soliditylang.org/en/v0.8.12/)** Page
+- Check the Soldity language's **[GitHub Repository](https://github.com/ethereum/solidity/blob/v0.8.12/docs/index.rst)** Page
